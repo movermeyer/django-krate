@@ -7,10 +7,10 @@ Django Kaleidos Rate
 .. image:: https://coveralls.io/repos/kaleidos/django-krate/badge.png?branch=master
     :target: https://coveralls.io/r/kaleidos/django-krate?branch=master
 
-.. image:: https://pypip.in/v/django-krate/badge.png
+.. image:: https://img.shields.io/pypi/v/django-krate.svg
     :target: https://crate.io/packages/django-krate
 
-.. image:: https://pypip.in/d/django-krate/badge.png
+.. image:: https://img.shields.io/pypi/dm/django-krate.svg
     :target: https://crate.io/packages/django-krate
 
 
